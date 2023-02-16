@@ -1,13 +1,14 @@
 ---
 layout: default
+is_contact: true
 ---
 
-## About Me
+## Negar Safinianaini
 
 
-Hello, my name is Negar. I recieved my Ph.D. in Computer Science from KTH and at the moment I am a researcher working mainly on Bayesian inference.
+Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher working on Bayesian inference.
 
-
+* Email: [negar7918 (at) gmail (dot) com]
 
 ## Research Interest
 
