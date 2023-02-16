@@ -4,23 +4,12 @@ layout: default
 
 ## Negar Safinianaini
 
-<img class="profile-picture" src="me.jpeg">
+<img height="400" width="400"  src="me.jpeg">
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
 
-Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
-
-Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
-
-Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
-
-Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
-
-Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on Bayesian inference. 
 
 contact: negar7918 (at) gmail (dot) com
-
-
 
 
 ## Research Interest
