@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="me.jpeg">
+<img class="profile-picture" src="me.jpeg">
 
 ## Negar Safinianaini
 
