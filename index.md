@@ -1,6 +1,5 @@
 ---
 layout: default
-is_contact: true
 ---
 
 ## Negar Safinianaini
@@ -9,7 +8,7 @@ is_contact: true
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher working on Bayesian inference.
 
-* Email: [negar7918 (at) gmail (dot) com]
+contact: negar7918 (at) gmail (dot) com
 
 ## Research Interest
 
