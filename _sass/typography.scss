@@ -41,7 +41,7 @@
         width: $image-size;
         //position: relative;
         //margin: -10px 0 0 15px;
-        float: left;
+        float: right;
         //border-radius: 0%;
         p & {
             padding: 0;
@@ -54,7 +54,7 @@
         //}
     }
     img {
-        text-align: left;
+        text-align: center;
         width: 100%;
     }
 }
