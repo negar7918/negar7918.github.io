@@ -3,7 +3,15 @@ layout: default
 ---
 
 ## Negar Safinianaini
-<img class="profile-picture" src="me.jpg" />
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+<img class="profile-picture" src="me.jpeg">
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on approximate Bayesian inference. 
 
