@@ -17,7 +17,9 @@ contact: negar7918 (at) gmail (dot) com
 
 I am interested in probabilistic machine learning and its application to biology and deep learning theory. 
 
-My latest favorite article: <a href="https://arxiv.org/abs/2303.00848">Understanding the Diffusion Objective as a Weighted Integral of ELBOs</a>
+One example of research questions that interests me: How can we build tools to extract biologically meaningful embeddings? For a cell image, is it enough to, for example, aim for geometrically-transform-invariant features in a deep learning framework or can we do more?
+
+
 
 ## Publications
 
