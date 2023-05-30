@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+background-image: "{{ site.url }}/background.jpeg";
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta charset="utf-8">
@@ -54,6 +55,8 @@
     {% endif %}
 </head>
 <body>
+background-image: "{{ site.url }}/background.jpeg";
+
     <div class="wrapper">
         <div class="navbar container">
             {% if site.ins_logo %}
