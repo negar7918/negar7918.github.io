@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Negar Safinianaini
+## About me
 
 
 <img class="profile-picture" src="me.jpeg">
