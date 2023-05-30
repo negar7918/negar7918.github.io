@@ -4,7 +4,7 @@ layout: default
 
 ## Negar Safinianaini
 
-
+<img class="background-picture" src="backgound.jpeg">
 <img class="profile-picture" src="me.jpeg">
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN working on approximate Bayesian inference. 
@@ -19,7 +19,7 @@ I am interested in probabilistic machine learning and its application to biology
 
 Some examples of research questions that interests me:
 1. How can we build tools to <b>extract biologically meaningful embeddings</b>?
-2. How can we <b>augment biologically relavant signals</b> when performing approximate Bayesian inference?
+2. How can we <b>augment biologically relevant signals</b> when performing approximate Bayesian inference?
 3. What happens theoretically in the inference framework when <b>posterior collapse</b> occurs and how can we push away this event?    
 
 
