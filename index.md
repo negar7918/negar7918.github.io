@@ -1,5 +1,6 @@
 ---
 layout: default
+background: 'https://negar7918.github.io/background.jpeg'
 ---
 
 ## About me
