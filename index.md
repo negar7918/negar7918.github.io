@@ -6,12 +6,10 @@ background: 'https://negar7918.github.io/background.jpeg'
 ## About me
 
 
-<img class="profile-picture" src="me.jpeg">
+<img class="profile-picture" src="me.jpeg" width="200" height="1500">
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN approximate Bayesian inference team. 
 
-
-contact: negar7918 (at) gmail (dot) com
 
 
 ## Research Interest
