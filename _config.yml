@@ -35,7 +35,7 @@ image: # Negar
   background: https://negar7918.github.io/background.jpeg
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
