@@ -17,7 +17,6 @@ body {
 a {
     text-decoration: none;
     color: $accent;
-    background-image: url("background.jpeg");
 }
 a:hover {
     text-decoration: underline;
@@ -80,6 +79,7 @@ hr {
 	display: block;
 	max-height: 100px;
 	text-align: center;
+  background-image: url("background.jpeg");
 }
 
 /* Mobile */
