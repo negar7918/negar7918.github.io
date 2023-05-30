@@ -29,7 +29,7 @@ url: "/papers" # the base hostname & protocol for your site, e.g. http://example
 twitter_username: jekyllrb
 github_username:  jekyll
 
-background-image: url('background.jpeg') # Negar
+background-image: url('negar7918.github.io/background.jpeg') # Negar
 
 # Build settings
 theme: minima
