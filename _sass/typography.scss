@@ -39,7 +39,7 @@
     .profile-picture {
         height: 400px; //150px; //$image-size;
         width: 350px; //$image-size;
-        position: relative;
+        position: border-left; //relative;
         margin: -10px 0 0 15px;
         float: left;
         border-radius: 1px;//32px;// 50%;
