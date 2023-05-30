@@ -9,7 +9,9 @@ background: 'https://negar7918.github.io/background.jpeg'
 
 Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN approximate Bayesian inference team. 
 
-
+<br>
+<br>
+<br>
 
 ## Research Interest
 
