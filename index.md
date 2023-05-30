@@ -12,8 +12,10 @@ Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at
 <br>
 <br>
 <br>
+<br>
+<br>
 
-## Research Interest
+## Research Interests
 
 I am interested in probabilistic machine learning and its application to biology and deep learning theory. 
 
