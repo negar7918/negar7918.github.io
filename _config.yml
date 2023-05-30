@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-image:
+image: # Negar
   background: https://negar7918.github.io/background.jpeg
 
 title: Home
@@ -32,7 +32,7 @@ url: "https://negar7918.github.io" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
-#background-image: url('{{ site.url }}/background.jpeg') # Negar
+background-image: url('https://negar7918.github.io/background.jpeg') # Negar
 
 # Build settings
 theme: minima
