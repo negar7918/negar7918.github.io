@@ -8,7 +8,7 @@ background: 'https://negar7918.github.io/background.jpeg'
 <img class="profile-picture" src="me.jpeg" width="150" height="200"  style="float: left">
 
 <div>
-	<p>Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN approximate Bayesian inference team. </p>
+	<p style=margin-left: 50px;">Hello, my name is Negar. I received my Ph.D. in Computer Science from KTH and at the moment I am a postdoctoral researcher at RIKEN approximate Bayesian inference team. </p>
 </div>
 
 <br>
