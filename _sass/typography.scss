@@ -37,9 +37,9 @@
         font-style: italic;
     }
     .profile-picture {
-        height: 200px; //$image-size;
-        width: 150px; //$image-size;
-        position: relative;
+        height: 100px; //$image-size;
+        width: 75px; //$image-size;
+        position: pull-left;
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 1px;// 50%;
