@@ -1,7 +1,9 @@
 ---
 layout: default
-background: 'https://negar7918.github.io/background.jpeg'
 ---
+
+<div class="cover">
+</div>
 
 ## About me
 

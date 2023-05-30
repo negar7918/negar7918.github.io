@@ -30,8 +30,8 @@ github_username:  negar7918
 #background: 'https://negar7918.github.io/background.jpeg'
 
 #background-image: url('https://negar7918.github.io/background.jpeg') # Negar
-image: # Negar
-  background: https://negar7918.github.io/background.jpeg
+#image: # Negar
+  #background: https://negar7918.github.io/background.jpeg
 
 # Build settings
 theme: minima

@@ -60,8 +60,11 @@
         width: 75px;//150px;
         height: 100px;
     }
-    /*img {
-        text-align: center;
-        width: 100%;
-    }*/
-}
+    .cover {
+      .feature-img: {
+          max-width: 100%;
+      }
+    }
+    .cover {
+      background: url('https://negar7918.github.io/background.jpeg');
+    }
