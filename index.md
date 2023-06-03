@@ -31,7 +31,7 @@ Some examples of research questions that interests me:
 
 ## Publications
 
-The latest article, <a href="https://arxiv.org/abs/2203.01121">VaiPhy</a> presented at NeurIPS 2022, is the first method applying traditional variational inference (VI) on phylogeny (task of tree reconstruction of the historical biological events); VI is very fast compared to Markov Chain Monte Carlo and Variational deep learning methods which are common in phylogenetic inference. The advantage of run-time makes VI very attractive for any high dimensional data.
+The latest article, <a href="https://arxiv.org/abs/2203.01121">VaiPhy</a> presented at NeurIPS 2022, proposes a novel variational inference for phylogenetic inference (task of tree reconstruction of the historical biological events); VaiPhy outperforms the state-of-art phylogenetic inference methods with respect to wall-clock runtime.
 
 <a href="https://scholar.google.se/citations?user=714HmacAAAAJ">Papers</a>
 
